@@ -1,2 +1,6 @@
 var PLAYname = prompt("What is your name?");
-alert("Welcome, " + PLAYname)
+
+if PLAYname == "1412375"
+alert("Welcome, Dev")
+else
+alert("welcome, " + PLAYname)
