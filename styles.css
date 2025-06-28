@@ -13,7 +13,6 @@
 
 .button:hover{
     background-color: red;
-    box-shadow: 0px 0px 12px 4px rgba(0,0,0,0.74);
 }
 
 h1{
@@ -21,10 +20,3 @@ h1{
     border: 8px solid blue;
 }
 
-.container {
-    background-color: white;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-}
