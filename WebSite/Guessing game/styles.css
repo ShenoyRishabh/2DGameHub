@@ -1,0 +1,10 @@
+.button {
+    background-color: aqua;
+    font-weight: 200;
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button:hover{
+    background-color: darkcyan;
+}
