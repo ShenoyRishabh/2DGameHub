@@ -11,6 +11,7 @@ while (guess != num){
  alert("Your Guess is too low")
  else if(guess == num)
  alert("You Win!")
+ document.write("You win!")
 }
 console.log("Game ends")
 }
