@@ -12,4 +12,5 @@ while (guess != num){
  else if(guess == num)
  alert("You Win!")
 }
+console.log("Game ends")
 }
